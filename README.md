@@ -1,11 +1,9 @@
 # Santander Product Recommendation
 
-## TEAM: Survey Corps
-
-## File Structure
+### File Structure
 
 ```
-survey_corps.santander-project/
+Santander-PR/
 ├── Models
 │   ├── #1-Voting
 │   │   ├── reproduce
@@ -25,9 +23,8 @@ survey_corps.santander-project/
 └── Santander_Product_Recommendation.pdf
 ```
 
- - The report for the assignment is saved as 'Santander_Product_Recommendation.pdf'
+ - [The report](https://github.com/DaKeiser/Santander-PR/blob/main/Santander_Product_Recommendation.pdf) is saved as 'Santander_Product_Recommendation.pdf'
  - We have submitted the best model. You can find them in 'Models' folder
- 
  - The top submission of ours is in 'Voting folder'
  - For Voting we had used multiple models to get a consolidated score.
  - To reproduce those CSVs please look at 'reproduce' folder
