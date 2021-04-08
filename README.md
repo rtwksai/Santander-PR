@@ -44,3 +44,8 @@ Santander-PR/
 
  - The second best submission is for XGBoost.
  - It's relevant script is saved as 'xgboost.py'. We had also used it for voting
+
+ ### Contributors
+ - [Sai Rithwik M](https://github.com/DaKeiser)
+ - [Sama Sai Karthik](https://github.com/Kartik-Sama)
+ - [Saksham Agarwal](https://github.com/Dragonsa15)
